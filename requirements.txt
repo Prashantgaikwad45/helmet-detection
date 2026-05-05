@@ -3,4 +3,6 @@ ultralytics
 opencv-python-headless
 streamlit-webrtc
 av
-tornado
+Pillow
+numpy
+
